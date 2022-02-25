@@ -1,0 +1,10 @@
+promozioni mirate
+intorno di 5/10km sushi a mariano con telegram
+
+
+
+java interroga telegram per vedere chi ha scritto città e poi contattarlo
+open street map per recuperare le coordinate
+o csv o direttamente php&db salvare i dati della persona
+
+/sendMessage?chat_id=123456&text=ciao%20come%20stai%3F%0A   --> questo è l'url encode
